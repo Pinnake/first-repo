@@ -1,4 +1,3 @@
 
-.py
 print("Hello, GitHub!")
 
